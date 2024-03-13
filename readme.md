@@ -29,3 +29,11 @@ Encourage students to modularize their code by creating functions for each major
 Students can use built-in PHP functions like file_get_contents(), str_word_count(), explode(), array_count_values(), and arsort() for sorting.
 
 Provide a list of common stop words that students can use to filter out irrelevant words from their analysis.
+
+
+## Partner
+
+* Nick Brienne Martinez
+* Aizel Hoyo-a Cantado
+
+
